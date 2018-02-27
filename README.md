@@ -9,7 +9,7 @@
 - 使用 CommonChunksPlugin 作为生产环境下公共代码提取工具。
 
 ### 使用方法
-1. 克隆仓库：`https://github.com/BeckyWang/react-boilerplate.git`
-2. 安装依赖：`npm install `
-3. 本地测试：`npm run dev` 加载完成后，浏览器就会自动打开，效果呈现~
-4. 压缩编译：`npm run dist` 
+1. 克隆仓库：`git clone https://github.com/BeckyWang/react-boilerplate.git`
+2. 安装依赖：`npm install `可使用淘宝镜像cnpm
+3. 本地测试：`npm run dev` 等模块编译加载完成后，浏览器就会自动打开。
+4. 压缩编译：`npm run dist` 用于压缩编译混淆代码
